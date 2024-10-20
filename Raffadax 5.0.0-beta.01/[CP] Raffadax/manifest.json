@@ -5,7 +5,7 @@
     "Description": "A massive expansion mod that adds thousands of items to the game.",
     "UniqueID": "Raffadax.RCP",
     "MinimumApiVersion": "4.0.0",
-    "UpdateKeys": ["Github:Rogue-Toast/RCP-Alpha"],
+    "UpdateKeys": [ "Nexus:8256" ],
     "Dependencies": [
         {
             "UniqueID": "Pathoschild.ContentPatcher"

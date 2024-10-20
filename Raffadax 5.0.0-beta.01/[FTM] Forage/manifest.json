@@ -3,8 +3,7 @@
     "Author": "Raffadax",
     "Description": "Adds forage for Raffadax Complete Production. Requires Farm Type Manager.",
     "UniqueID": "Raffadax.Forage",
-    "Version": "5.0.0-alpha.10",
-    "UpdateKeys": ["Github:Rogue-Toast/RCP-Alpha"],
+    "Version": "5.0.0-beta.01",
     "ContentPackFor": {
         "UniqueID": "Esca.FarmTypeManager"
     },
