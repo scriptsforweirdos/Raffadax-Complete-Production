@@ -50,6 +50,7 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.01.01.zip".
 * [Multi Yield Crops](https://www.nexusmods.com/stardewvalley/mods/6069) v1.0.3-alpha.20240306
   * Note: this is available under "optional files". Don't pull the first option on the files tab. You want the second option.
 * [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) v1.9+
+* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089) v1.6+
 
 ## Matrix/Spreadsheet
 
