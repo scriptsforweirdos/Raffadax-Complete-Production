@@ -23,9 +23,9 @@ Updated for Stardew 1.6.8 by [Logo](https://github.com/Rogue-Toast) and [OnionNi
 
 Look at the Releases section on the right side of this page.
 
-Click the link that says "5.0.0-beta.01". A new page will load.
+Click the link that says "5.0.0-beta.01.01". A new page will load.
 
-On the new page, select the link titled "Raffadax 5.0.0-beta.01.zip".
+On the new page, select the link titled "Raffadax 5.0.0-beta.01.01.zip".
 
 ## Features and Changes
 
