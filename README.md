@@ -54,7 +54,7 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.01.01.zip".
 
 ## Matrix/Spreadsheet
 
-An updated version of the spreadsheet which has been traditionally provided with Raffadax is included with the zip file on the Releases page.
+An updated version of the spreadsheet which has been traditionally provided with Raffadax is also available on the Releases page. It's the second file on the list.
 
 ## Recommended Mods
 
@@ -64,6 +64,6 @@ The following are not required, but certainly help.
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) (GMCM)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 * [Deluxe Grabber Redux 1.6](https://www.nexusmods.com/stardewvalley/mods/20799)
-* [Item Bags](https://www.nexusmods.com/stardewvalley/mods/5382) (If you are running with Item Bags, and additional zip file can be pulled from the Releases tab.)
+* [Item Bags](https://www.nexusmods.com/stardewvalley/mods/5382) (If you are running with Item Bags, and additional zip file can be pulled from the Releases page. It's the third file on the list.)
 * A very large Greenhouse map
 * A very large Farm map
