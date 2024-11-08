@@ -1,4 +1,4 @@
-# Raffadax Complete Production Beta 5.0.0-beta.01
+# Raffadax Complete Production Beta
 
 Updated for Stardew 1.6.8 by [Logo](https://github.com/Rogue-Toast) and [OnionNinja](https://github.com/scriptsforweirdos).
 
@@ -23,9 +23,9 @@ Updated for Stardew 1.6.8 by [Logo](https://github.com/Rogue-Toast) and [OnionNi
 
 Look at the Releases section on the right side of this page.
 
-Click the link that says "5.0.0-beta.01.01". A new page will load.
+Click the link that says "5.0.0-beta.xx", where "xx" is a pair of numbers. A new page will load.
 
-On the new page, select the link titled "Raffadax 5.0.0-beta.01.01.zip".
+On the new page, select the link titled "Raffadax 5.0.0-beta.xx.zip".
 
 ## Features and Changes
 
