@@ -1,0 +1,46 @@
+{"Changes": [
+		{
+			"LogName": "Raffadax Tea Bush",
+			"Action": "EditData",
+			"Target": "furyx639.CustomBush/Data",
+			"Entries": {
+				"(O)251": {
+					"AgeToProduce": 1,
+					"ConditionsToProduce": [
+						"!SEASON winter, DAY_OF_MONTH 20 21 22 23 24 25 26 27 28, LOCATION_IS_OUTDOORS Target",
+						"DAY_OF_MONTH 20 21 22 23 24 25 26 27 28, LOCATION_IS_INDOORS Target"
+					],
+					"DisplayName": "{{i18n:TeaBush.DisplayName}}",
+					"Description": "{{i18n:TeaBush.Description}}",
+					"ItemsProduced": [
+						{
+							"Condition": "!SEASON winter, DAY_OF_MONTH 20 21, LOCATION_IS_OUTDOORS Target",
+							"ItemId": "(O){{ModId}}_WhiteTeaLeaf",
+							"Chance": 0.5,
+							"SpriteOffset": 1
+						},
+						{
+							"Condition": "!SEASON winter, DAY_OF_MONTH 22 23 24 25 26 27 28, LOCATION_IS_OUTDOORS Target",
+							"ItemId": "(O)815",
+							"Chance": 1.0
+						},
+						{
+							"Condition": "DAY_OF_MONTH 20 21, LOCATION_IS_INDOORS Target",
+							"ItemId": "(O){{ModId}}_WhiteTeaLeaf",
+							"Chance": 0.5,
+							"SpriteOffset": 1
+						},
+						{
+							"Condition": "DAY_OF_MONTH 22 23 24 25 26 27 28, LOCATION_IS_INDOORS Target",
+							"ItemId": "(O)815",
+							"Chance": 1.0
+						}
+					],
+					"Texture": "Mods/{{ModId}}/Bushes",
+					"IndoorTexture": "Mods/{{ModId}}/Bushes_Indoors",
+					"TextureSpriteRow": 0
+				}
+			}
+		}
+	]
+}

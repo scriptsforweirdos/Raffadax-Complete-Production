@@ -14,6 +14,18 @@
             "FromFile": "assets/textures/crops.png"
         },
         {
+            "LogName": "Raffadax Bush Textures",
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Bushes",
+            "FromFile": "assets/textures/bushes_{{season}}.png"
+        },
+        {
+            "LogName": "Raffadax Bush Textures Indoors",
+            "Action": "Load",
+            "Target": "Mods/{{ModId}}/Bushes_Indoors",
+            "FromFile": "assets/textures/bushes_indoors.png"
+        },
+        {
             "LogName": "Raffadax Giant Crop Textures",
             "Action": "Load",
             "Target": "Mods/{{ModId}}/GiantCrops",

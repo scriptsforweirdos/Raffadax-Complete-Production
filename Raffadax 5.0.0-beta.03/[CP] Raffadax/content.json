@@ -130,6 +130,14 @@
             "Action": "Include",
             "FromFile": "assets/data/CraftingRecipes.json"
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/data/Bushes.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/data/MultiYield.json"
+        },
         // NPCs
         {
             "Action": "Include",

@@ -1,0 +1,1580 @@
+{
+    "Changes": [
+        {
+            "LogName": "Raffadax Multi Yield",
+            "Action": "EditData",
+            "Target": "spacechase0.SpaceCore/CropExtensionData",
+            "Entries": {
+                "{{ModId}}_BasilSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBasilSeeds",
+                                    "ItemId": "{{ModId}}_BasilSeeds",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_BlackCloverSeeds": {
+                    "YieldOverrides": {
+                        "3": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxClover",
+                                    "ItemId": "{{ModId}}_Clover",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                },
+                                {
+                                    "Id": "RaffadaxUnluckyClover",
+                                    "ItemId": "{{ModId}}_UnluckyClover",
+                                    "PerItemCondition": "RANDOM 0.04545"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_LichenStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxCommonMushroom",
+                                    "ItemId": "404",
+                                    "PerItemCondition": "RANDOM 0.03704"
+                                },
+                                {
+                                    "Id": "RaffadaxLiverwort",
+                                    "ItemId": "{{ModId}}_Liverwort",
+                                    "PerItemCondition": "RANDOM 0.03704"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_BlueCornSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01299"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_BlueLotusStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxLotusLeaf",
+                                    "ItemId": "{{ModId}}_LotusLeaf",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                },
+                                {
+                                    "Id": "RaffadaxLotusStalk",
+                                    "ItemId": "{{ModId}}_LotusStalk",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxLotusRoot",
+                                    "ItemId": "{{ModId}}_LotusRoot",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ],
+                            "RegrowDays": 21
+                        }
+                    }
+                },
+                "{{ModId}}_BrusselsSproutSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBrassicaFlower",
+                                    "ItemId": "{{ModId}}_BrassicaFlower",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "802": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxCactusBlossom",
+                                    "ItemId": "{{ModId}}_CactusBlossom",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "{{ModId}}_CarawaySeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxCarawayRoot",
+                                    "ItemId": "{{ModId}}_CarawayRoot",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                },
+                                {
+                                    "Id": "RaffadaxCarawaySeeds",
+                                    "ItemId": "{{ModId}}_CarawaySeeds",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_CaperBushStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxFlindersRose",
+                                    "ItemId": "{{ModId}}_FlindersRose",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                },
+                                {
+                                    "Id": "RaffadaxCaperBerries",
+                                    "ItemId": "{{ModId}}_CaperBerries",
+                                    "PerItemCondition": "RANDOM 0.33333",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxCaperLeaves",
+                                    "ItemId": "{{ModId}}_CaperLeaves",
+                                    "PerItemCondition": "RANDOM 0.33333",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_CassavaStarter": {
+                    "YieldOverrides": {
+                        "6": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxCassavaLeaf",
+                                    "ItemId": "{{ModId}}_CassavaLeaf",
+                                    "PerItemCondition": "RANDOM 0.4",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_CelerySeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxCelerySeeds",
+                                    "ItemId": "{{ModId}}_CelerySeeds",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_ChicorySeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxChicory",
+                                    "ItemId": "{{ModId}}_Chicory",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxChicoryRoot",
+                                    "ItemId": "{{ModId}}_ChicoryRoot",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_ChiveSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxAllium",
+                                    "ItemId": "{{ModId}}_Allium",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "{{ModId}}_CilantroSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxCoriander",
+                                    "ItemId": "{{ModId}}_Coriander",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                },
+                                {
+                                    "Id": "RaffadaxCorianderFlower",
+                                    "ItemId": "{{ModId}}_CorianderFlower",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "487": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBabyCorn",
+                                    "ItemId": "{{ModId}}_BabyCorn",
+                                    "PerItemCondition": "RANDOM 0.14286"
+                                },
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01299"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_CrocusSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSaffron",
+                                    "ItemId": "{{ModId}}_Saffron",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_BlackCuminSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBlackCuminSeeds",
+                                    "ItemId": "{{ModId}}_BlackCuminSeeds",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_DandelionSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxDandelionGreens",
+                                    "ItemId": "{{ModId}}_DandelionGreens",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxDandelionPuffball",
+                                    "ItemId": "{{ModId}}_DandelionPuffball",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                },
+                                {
+                                    "Id": "RaffadaxDandelionRoot",
+                                    "ItemId": "{{ModId}}_DandelionRoot",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxDandelionSeeds",
+                                    "ItemId": "{{ModId}}_DandelionSeeds",
+                                    "PerItemCondition": "RANDOM 0.4",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_DillSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxDillSeeds",
+                                    "ItemId": "{{ModId}}_DillSeeds",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_FennelSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxFennelFlower",
+                                    "ItemId": "{{ModId}}_FennelFlower",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                },
+                                {
+                                    "Id": "RaffadaxFennelGreens",
+                                    "ItemId": "{{ModId}}_FennelGreens",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                },
+                                {
+                                    "Id": "RaffadaxFennelPollen",
+                                    "ItemId": "{{ModId}}_FennelPollen",
+                                    "PerItemCondition": "RANDOM 0.09091"
+                                },
+                                {
+                                    "Id": "RaffadaxFennelSeeds",
+                                    "ItemId": "{{ModId}}_FennelSeeds",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_FenugreekSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxFenugreekSeeds",
+                                    "ItemId": "{{ModId}}_FenugreekSeeds",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_FernFlowerSeeds": {
+                    "YieldOverrides": {
+                        "6": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxFiddleheadFern",
+                                    "ItemId": "259",
+                                    "MaxStack": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_GemCapStarter": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxEmerald",
+                                    "ItemId": "60",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                },
+                                {
+                                    "Id": "RaffadaxRuby",
+                                    "ItemId": "64",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                },
+                                {
+                                    "Id": "RaffadaxSapphire",
+                                    "ItemId": "{{ModId}}_Sapphire",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                },
+                                {
+                                    "Id": "RaffadaxAmethyst",
+                                    "ItemId": "66",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxAquamarine",
+                                    "ItemId": "62",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxFireOpal",
+                                    "ItemId": "565",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxJade",
+                                    "ItemId": "70",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxOpal",
+                                    "ItemId": "564",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxTigerseye",
+                                    "ItemId": "562",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxTopaz",
+                                    "ItemId": "68",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxDiamond",
+                                    "ItemId": "72",
+                                    "PerItemCondition": "RANDOM 0.08333"
+                                },
+                                {
+                                    "Id": "RaffadaxPrismaticShard",
+                                    "ItemId": "74",
+                                    "PerItemCondition": "RANDOM 0.01923"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_GentianFlowerSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGentianBark",
+                                    "ItemId": "{{ModId}}_GentianBark",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                },
+                                {
+                                    "Id": "RaffadaxGentianRoot",
+                                    "ItemId": "{{ModId}}_GentianRoot",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ],
+                            "RegrowDays": 7
+                        }
+                    }
+                },
+                "{{ModId}}_TreasurePlantStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGoldenLeaf",
+                                    "ItemId": "{{ModId}}_GoldenLeaf",
+                                    "MaxStack": 4
+                                },
+                                {
+                                    "Id": "RaffadaxSilverCoin",
+                                    "ItemId": "{{ModId}}_SilverCoin",
+                                    "MinStack": 5,
+                                    "MaxStack": 10
+                                },
+                                {
+                                    "Id": "RaffadaxSilverLeaf",
+                                    "ItemId": "{{ModId}}_SilverLeaf",
+                                    "MaxStack": 4
+                                },
+                                {
+                                    "Id": "RaffadaxEmerald",
+                                    "ItemId": "60",
+                                    "MinStack": 2,
+                                    "MaxStack": 5
+                                },
+                                {
+                                    "Id": "RaffadaxRuby",
+                                    "ItemId": "64",
+                                    "MinStack": 2,
+                                    "MaxStack": 5
+                                },
+                                {
+                                    "Id": "RaffadaxSapphire",
+                                    "ItemId": "{{ModId}}_Sapphire",
+                                    "MinStack": 2,
+                                    "MaxStack": 5
+                                },
+                                {
+                                    "Id": "RaffadaxBlackPearl",
+                                    "ItemId": "{{ModId}}_BlackPearl",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxDiamond",
+                                    "ItemId": "72",
+                                    "MaxStack": 3
+                                },
+                                {
+                                    "Id": "RaffadaxPearl",
+                                    "ItemId": "797",
+                                    "MinStack": 2,
+                                    "MaxStack": 3
+                                },
+                                {
+                                    "Id": "RaffadaxAmethyst",
+                                    "ItemId": "66",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxAquamarine",
+                                    "ItemId": "62",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxFireOpal",
+                                    "ItemId": "565",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxJade",
+                                    "ItemId": "70",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxOpal",
+                                    "ItemId": "564",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxTigerseye",
+                                    "ItemId": "562",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxTopaz",
+                                    "ItemId": "68",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxAncientCoin",
+                                    "ItemId": "{{ModId}}_AncientCoin",
+                                    "MinStack": 5,
+                                    "MaxStack": 10
+                                },
+                                {
+                                    "Id": "RaffadaxCinderShard",
+                                    "ItemId": "848",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                },
+                                {
+                                    "Id": "RaffadaxGiantPearl",
+                                    "ItemId": "{{ModId}}_GiantPearl"
+                                },
+                                {
+                                    "Id": "RaffadaxElvishJewelry",
+                                    "ItemId": "104",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxGoldenAntler",
+                                    "ItemId": "{{ModId}}_GoldenAntler",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxGoldenFeather",
+                                    "ItemId": "{{ModId}}_GoldenFeather",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxGoldenMask",
+                                    "ItemId": "124",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxGoldenRelic",
+                                    "ItemId": "125",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxSilverAntler",
+                                    "ItemId": "{{ModId}}_SilverAntler",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxSilverFeather",
+                                    "ItemId": "{{ModId}}_SilverFeather",
+                                    "PerItemCondition": "RANDOM 0.11111"
+                                },
+                                {
+                                    "Id": "RaffadaxIridiumFeather",
+                                    "ItemId": "{{ModId}}_IridiumFeather",
+                                    "PerItemCondition": "RANDOM 0.1"
+                                },
+                                {
+                                    "Id": "RaffadaxMythrilFeather",
+                                    "ItemId": "{{ModId}}_MythrilFeather",
+                                    "PerItemCondition": "RANDOM 0.1"
+                                },
+                                {
+                                    "Id": "RaffadaxPrismaticShard",
+                                    "ItemId": "74",
+                                    "PerItemCondition": "RANDOM 0.09091"
+                                }
+                            ],
+                            "RegrowDays": 28
+                        }
+                    }
+                },
+                "{{ModId}}_GlassGemCornSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01299"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_GlassPumpkinSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSilverLeaf",
+                                    "ItemId": "{{ModId}}_SilverLeaf",
+                                    "MinStack": 2,
+                                    "MaxStack": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_GoldenPumpkinSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGoldenLeaf",
+                                    "ItemId": "{{ModId}}_GoldenLeaf",
+                                    "MinStack": 2,
+                                    "MaxStack": 5
+                                }
+                            ]
+                        }
+                    }
+                },
+                "301": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGrapeLeaf",
+                                    "ItemId": "{{ModId}}_GrapeLeaf",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "{{ModId}}_GreenBellPepperSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxYellowBellPepper",
+                                    "ItemId": "{{ModId}}_YellowBellPepper",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "482": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxJalapenoPepper",
+                                    "ItemId": "{{ModId}}_JalapenoPepper",
+                                    "PerItemCondition": "RANDOM 0.4",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "{{ModId}}_MaryJaneSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxHempStalk",
+                                    "ItemId": "{{ModId}}_HempStalk",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxMaryJane",
+                                    "ItemId": "{{ModId}}_MaryJane",
+                                    "PerItemCondition": "RANDOM 0.75",
+                                    "MaxStack": 3
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_JackOLanternSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSquashFlower",
+                                    "ItemId": "{{ModId}}_SquashFlower",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_MandrakeSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxMandragoraFlower",
+                                    "ItemId": "{{ModId}}_MandragoraFlower",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_MugwortSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxArtemisia",
+                                    "ItemId": "{{ModId}}_Artemisia",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_MustardSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBrassicaFlower",
+                                    "ItemId": "{{ModId}}_BrassicaFlower",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxMustardSeeds",
+                                    "ItemId": "{{ModId}}_MustardSeeds",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_RainbowCarrotSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxYellowCarrot",
+                                    "ItemId": "{{ModId}}_YellowCarrot",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxWhiteCarrot",
+                                    "ItemId": "{{ModId}}_WhiteCarrot",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_PassionFruitStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxPassionFlower",
+                                    "ItemId": "{{ModId}}_PassionFlower",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ],
+                            "RegrowDays": 7
+                        }
+                    }
+                },
+                "{{ModId}}_PeppermintSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxMintFlower",
+                                    "ItemId": "{{ModId}}_MintFlower",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "453": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxPoppySeeds",
+                                    "ItemId": "453",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_PortobelloMushroomStarter": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxButtonMushroom",
+                                    "ItemId": "{{ModId}}_ButtonMushroom",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxCreminiMushroom",
+                                    "ItemId": "{{ModId}}_CreminiMushroom",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_PricklyPearCactusStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxNopal",
+                                    "ItemId": "{{ModId}}_Nopal",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxOpuntiaFlower",
+                                    "ItemId": "{{ModId}}_OpuntiaFlower",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "490": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSquashFlower",
+                                    "ItemId": "{{ModId}}_SquashFlower",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_PurpleBellPepperSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBlackBellPepper",
+                                    "ItemId": "{{ModId}}_BlackBellPepper",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_DarkRainbowCarrotSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBlackCarrot",
+                                    "ItemId": "{{ModId}}_BlackCarrot",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxRedCarrot",
+                                    "ItemId": "{{ModId}}_RedCarrot",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_RapiniSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBrassicaFlower",
+                                    "ItemId": "{{ModId}}_BrassicaFlower",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_RedBellPepperSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxOrangeBellPepper",
+                                    "ItemId": "{{ModId}}_OrangeBellPepper",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_RedCornSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01299"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_RedOnionSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxAllium",
+                                    "ItemId": "{{ModId}}_Allium",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                },
+                                {
+                                    "Id": "RaffadaxGreenOnion",
+                                    "ItemId": "{{ModId}}_GreenOnion",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_PeppercornStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBlackPeppercorns",
+                                    "ItemId": "{{ModId}}_BlackPeppercorns",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                },
+                                {
+                                    "Id": "RaffadaxGreenPeppercorns",
+                                    "ItemId": "{{ModId}}_GreenPeppercorns",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "478": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxRhubarbStalks",
+                                    "ItemId": "{{ModId}}_RhubarbStalks",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_RoseVineStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxRoseHips",
+                                    "ItemId": "{{ModId}}_RoseHips",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ],
+                            "RegrowDays": 7
+                        }
+                    }
+                },
+                "{{ModId}}_RutabagaSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxTurnipGreens",
+                                    "ItemId": "{{ModId}}_TurnipGreens",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxBrassicaFlower",
+                                    "ItemId": "{{ModId}}_BrassicaFlower",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_RyeSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01923"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_SarsaparillaSeeds": {
+                    "YieldOverrides": {
+                        "6": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSarsaparillaBerry",
+                                    "ItemId": "{{ModId}}_SarsaparillaBerry",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_DevilsLettuceSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxHempStalk",
+                                    "ItemId": "{{ModId}}_HempStalk",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxTheDevilsLettuce",
+                                    "ItemId": "{{ModId}}_TheDevilsLettuce",
+                                    "PerItemCondition": "RANDOM 0.75",
+                                    "MaxStack": 3
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_CloverPatchStarter": {
+                    "YieldOverrides": {
+                        "3": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxClover",
+                                    "ItemId": "{{ModId}}_Clover",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                },
+                                {
+                                    "Id": "RaffadaxLuckyClover",
+                                    "ItemId": "{{ModId}}_LuckyClover",
+                                    "PerItemCondition": "RANDOM 0.04545"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_SpearmintSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxMintFlower",
+                                    "ItemId": "{{ModId}}_MintFlower",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_SpringOnionSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxAllium",
+                                    "ItemId": "{{ModId}}_Allium",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                },
+                                {
+                                    "Id": "RaffadaxScallion",
+                                    "ItemId": "{{ModId}}_Scallion",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_SquashSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSquashFlower",
+                                    "ItemId": "{{ModId}}_SquashFlower",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_StingingNettleStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxNettleBlossom",
+                                    "ItemId": "{{ModId}}_NettleBlossom",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "480": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGreenTomato",
+                                    "ItemId": "{{ModId}}_GreenTomato",
+                                    "PerItemCondition": "RANDOM 0.25"
+                                }
+                            ],
+                            "RegrowDays": 4
+                        }
+                    }
+                },
+                "{{ModId}}_TopinamburSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSunchoke",
+                                    "ItemId": "{{ModId}}_Sunchoke",
+                                    "MaxStack": 2
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_TurnipSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxTurnipGreens",
+                                    "ItemId": "{{ModId}}_TurnipGreens",
+                                    "PerItemCondition": "RANDOM 0.5"
+                                },
+                                {
+                                    "Id": "RaffadaxBrassicaFlower",
+                                    "ItemId": "{{ModId}}_BrassicaFlower",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_TruffleStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBlackTruffle",
+                                    "ItemId": "{{ModId}}_BlackTruffle",
+                                    "PerItemCondition": "RANDOM 0.08333"
+                                },
+                                {
+                                    "Id": "RaffadaxWhiteTruffle",
+                                    "ItemId": "{{ModId}}_WhiteTruffle",
+                                    "PerItemCondition": "RANDOM 0.05882"
+                                }
+                            ],
+                            "RegrowDays": 21
+                        }
+                    }
+                },
+                "273": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01923"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_VanillaVineStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxVanillaOrchid",
+                                    "ItemId": "{{ModId}}_VanillaOrchid",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "483": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01923"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_WhiteBellPepperSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxIvoryBellPepper",
+                                    "ItemId": "{{ModId}}_IvoryBellPepper",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_WhiteGrapeStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGrapeLeaf",
+                                    "ItemId": "{{ModId}}_GrapeLeaf",
+                                    "PerItemCondition": "RANDOM 0.28571",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "{{ModId}}_WhiteOnionSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxAllium",
+                                    "ItemId": "{{ModId}}_Allium",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                },
+                                {
+                                    "Id": "RaffadaxGreenOnion",
+                                    "ItemId": "{{ModId}}_GreenOnion",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_WhiteTeaSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxTeaLeaves",
+                                    "ItemId": "815",
+                                    "PerItemCondition": "RANDOM 0.08333"
+                                }
+                            ],
+                            "RegrowDays": 5
+                        }
+                    }
+                },
+                "{{ModId}}_WildBarleySeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01923"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_WildGrapeStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxGrapeLeaf",
+                                    "ItemId": "{{ModId}}_GrapeLeaf",
+                                    "PerItemCondition": "RANDOM 0.5",
+                                    "MaxStack": 2
+                                }
+                            ],
+                            "RegrowDays": 3
+                        }
+                    }
+                },
+                "{{ModId}}_WildOatSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxErgot",
+                                    "ItemId": "{{ModId}}_Ergot",
+                                    "PerItemCondition": "RANDOM 0.01923"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_WintergreenSeeds": {
+                    "YieldOverrides": {
+                        "4": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxBoxberry",
+                                    "ItemId": "{{ModId}}_Boxberry",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                },
+                                {
+                                    "Id": "RaffadaxGultheria",
+                                    "ItemId": "{{ModId}}_Gultheria",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_WoodruffSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxWaldmeister",
+                                    "ItemId": "{{ModId}}_Waldmeister",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_WormwoodSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxArtemisia",
+                                    "ItemId": "{{ModId}}_Artemisia",
+                                    "PerItemCondition": "RANDOM 0.2"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_XoconostleCactusStarter": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxNopal",
+                                    "ItemId": "{{ModId}}_Nopal",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxOpuntiaFlower",
+                                    "ItemId": "{{ModId}}_OpuntiaFlower",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ],
+                            "RegrowDays": 7
+                        }
+                    }
+                },
+                "{{ModId}}_YarrowSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxYarrowLeaf",
+                                    "ItemId": "{{ModId}}_YarrowLeaf",
+                                    "PerItemCondition": "RANDOM 0.66667",
+                                    "MaxStack": 2
+                                },
+                                {
+                                    "Id": "RaffadaxYarrowRoot",
+                                    "ItemId": "{{ModId}}_YarrowRoot",
+                                    "PerItemCondition": "RANDOM 0.33333"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "{{ModId}}_ZucchiniSeeds": {
+                    "YieldOverrides": {
+                        "5": {
+                            "IgnoreDefaultDrops": false,
+                            "Drops": [
+                                {
+                                    "Id": "RaffadaxSquashFlower",
+                                    "ItemId": "{{ModId}}_SquashFlower",
+                                    "PerItemCondition": "RANDOM 0.16667"
+                                }
+                            ],
+                            "RegrowDays": 7
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

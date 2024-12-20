@@ -1,7 +1,7 @@
 {
     "Name": "Raffadax Complete Production",
     "Author": "Raffadax",
-    "Version": "5.0.0-beta.02",
+    "Version": "5.0.0-beta.03",
     "Description": "A massive expansion mod that adds thousands of items to the game.",
     "UniqueID": "Raffadax.RCP",
     "MinimumApiVersion": "4.0.0",
@@ -17,19 +17,10 @@
             "UniqueID": "mistyspring.ItemExtensions"
         },
         {
-            "UniqueID": "Cherry.MultiYieldCrops"
+            "UniqueID": "spacechase0.SpaceCore"
         },
         {
-            "UniqueID": "Raffadax.Forage"
-        },
-        {
-            "UniqueID": "Raffadax.Gems"
-        },
-        {
-            "UniqueID": "Raffadax.MultiYield"
-        },
-        {
-            "UniqueID": "Raffadax.Complete.Production"
+            "UniqueID": "furyx639.CustomBush"
         },
         {
             "UniqueID": "ZoeDoll.NPCAlecto",
