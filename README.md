@@ -62,6 +62,7 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.xx.zip".
 
 * [Spacecore](https://www.nexusmods.com/stardewvalley/mods/1348) v1.27.0+
 * [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619) v1.40+
+* MultiYield crops not required.
 
 ## Dependencies for Versions prior to beta.03
 
