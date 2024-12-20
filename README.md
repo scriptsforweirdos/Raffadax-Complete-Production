@@ -1,6 +1,6 @@
 # Raffadax Complete Production Beta
 
-Updated for Stardew 1.6.8 by [Logo](https://github.com/Rogue-Toast) and [OnionNinja](https://github.com/scriptsforweirdos).
+Updated for Stardew 1.6.14 by [Logo](https://github.com/Rogue-Toast) and [OnionNinja](https://github.com/scriptsforweirdos).
 
 ## Before you Begin
 
@@ -41,16 +41,33 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.xx.zip".
   * "Better Saplings": Higher quality fruits yield higher quality saplings, which mature faster.
   * "More Saplings": Higher quality fruits yield more saplings. This is the same behavior as the old Produce to Sapling mod.
 
-## Dependencies
+## Changes For beta.03 (2024 Dec 20)
 
-* [SMAPI](https://smapi.io) v4.0+
-* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) v2.0+
-* [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231) v1.17+
-* [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357) v1.5+
+* Removed MultiYield Crops due to conflict with Spacecore.
+* Added Spacecore and Custom Bush as dependencies.
+* All old MultiYield Crops functions have been moved to Spacecore and Custom Bush.
+* White Tea Leaves now have a chance to drop from the Tea Bush on the 20 and 21 of the month, Spring/Summer/Fall outdoors, all seasons indoors.
+* Minimum Stardew Valley Base Game version is now 1.6.14 with all associated matching mods and frameworks.
+
+## Dependencies for all betas
+
+* [SMAPI](https://smapi.io) v4.1.10+
+* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) v2.4.4+
+* [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231) v1.24.0+
+* [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357) v1.11+
+* [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) v1.9.6+
+* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089) v1.6+
+
+## Dependencies for beta.03 and Later
+
+* [Spacecore](https://www.nexusmods.com/stardewvalley/mods/1348) v1.27.0+
+* [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619) v1.40+
+
+## Dependencies for Versions prior to beta.03
+
 * [Multi Yield Crops](https://www.nexusmods.com/stardewvalley/mods/6069) v1.0.3-alpha.20240306
   * Note: this is available under "optional files". Don't pull the first option on the files tab. You want the second option.
-* [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) v1.9+
-* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089) v1.6+
+* Spacecore and Custom Bush not required.
 
 ## Matrix/Spreadsheet
 
