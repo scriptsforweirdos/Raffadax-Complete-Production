@@ -44,10 +44,11 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.xx.zip".
 ## Changes For beta.03 (2024 Dec 20)
 
 * Removed MultiYield Crops due to conflict with Spacecore.
-* Added Spacecore and Custom Bush as dependencies.
+* Added Spacecore and Custom Bush as dependencies. Custom Bush is optional for now unless Raffadax decides to do more with it.
 * All old MultiYield Crops functions have been moved to Spacecore and Custom Bush.
-* White Tea Leaves now have a chance to drop from the Tea Bush on the 20 and 21 of the month, Spring/Summer/Fall outdoors, all seasons indoors.
+* With Custom Bush, White Tea Leaves now have a chance to drop from the Tea Bush on the 20 and 21 of the month, Spring/Summer/Fall outdoors, all seasons indoors.
 * Minimum Stardew Valley Base Game version is now 1.6.14 with all associated matching mods and frameworks.
+* Restored Category Text Overrides via Spacecore.
 
 ## Dependencies for all betas
 
@@ -61,7 +62,7 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.xx.zip".
 ## Dependencies for beta.03 and Later
 
 * [Spacecore](https://www.nexusmods.com/stardewvalley/mods/1348) v1.27.0+
-* [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619) v1.40+
+* [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619) v1.40+ (Optional)
 * MultiYield crops not required.
 
 ## Dependencies for Versions prior to beta.03
