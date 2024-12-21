@@ -138,6 +138,10 @@
             "Action": "Include",
             "FromFile": "assets/data/MultiYield.json"
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/data/CategoryOverrides.json"
+        },
         // NPCs
         {
             "Action": "Include",
