@@ -20,7 +20,8 @@
             "UniqueID": "spacechase0.SpaceCore"
         },
         {
-            "UniqueID": "furyx639.CustomBush"
+            "UniqueID": "furyx639.CustomBush",
+            "IsRequired": false,
         },
         {
             "UniqueID": "ZoeDoll.NPCAlecto",

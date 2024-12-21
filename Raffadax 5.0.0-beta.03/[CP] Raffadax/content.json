@@ -132,7 +132,8 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/data/Bushes.json"
+            "FromFile": "assets/data/Bushes.json",
+            "When": {"HasMod": "furyx639.CustomBush"}
         },
         {
             "Action": "Include",
