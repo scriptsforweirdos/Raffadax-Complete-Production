@@ -8,7 +8,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"{{Amanra}}": {
-					"DisplayName": "[LocalizedText Strings\\NPCNames:{{Amanra}}]",
+					"DisplayName": "{{i18n:Amanra.DisplayName}}",
 					"Gender": "Male",
 					"Age": "Adult",
 					"Manner": "Neutral",

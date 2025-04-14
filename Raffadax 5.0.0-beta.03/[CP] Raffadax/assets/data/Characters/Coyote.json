@@ -8,7 +8,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"{{Coyote}}": {
-					"DisplayName": "[LocalizedText Strings\\NPCNames:{{Coyote}}]",
+					"DisplayName": "{{i18n:Coyote.DisplayName}}",
 					"Gender": "Male",
 					"Age": "Adult",
 					"Manner": "Neutral",

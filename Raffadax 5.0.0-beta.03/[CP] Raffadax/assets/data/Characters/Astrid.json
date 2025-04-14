@@ -8,7 +8,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"{{Astrid}}": {
-					"DisplayName": "[LocalizedText Strings\\NPCNames:{{Astrid}}]",
+					"DisplayName": "{{i18n:Astrid.DisplayName}}",
 					"Gender": "Female",
 					"Age": "Adult",
 					"Manner": "Neutral",

@@ -8,7 +8,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"{{Puck}}": {
-					"DisplayName": "[LocalizedText Strings\\NPCNames:{{Puck}}]",
+					"DisplayName": "{{i18n:Puck.DisplayName}}",
 					"Gender": "Male",
 					"Age": "Adult",
 					"Manner": "Neutral",

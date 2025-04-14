@@ -8,7 +8,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"{{Xolotl}}": {
-					"DisplayName": "[LocalizedText Strings\\NPCNames:{{Xolotl}}]",
+					"DisplayName": "{{i18n:Xolotl.DisplayName}}",
 					"Gender": "Male",
 					"Age": "Adult",
 					"Manner": "Neutral",

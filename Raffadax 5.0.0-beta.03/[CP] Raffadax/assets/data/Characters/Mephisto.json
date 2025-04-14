@@ -8,7 +8,7 @@
 			"Target": "Data/Characters",
 			"Entries": {
 				"{{Mephisto}}": {
-					"DisplayName": "[LocalizedText Strings\\NPCNames:{{Mephisto}}]",
+					"DisplayName": "{{i18n:Mephisto.DisplayName}}",
 					"Gender": "Male",
 					"Age": "Adult",
 					"Manner": "Neutral",
