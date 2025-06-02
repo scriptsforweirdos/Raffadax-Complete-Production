@@ -52,17 +52,17 @@ On the new page, select the link titled "Raffadax 5.0.0-beta.xx.zip".
 
 ## Dependencies for all betas
 
-* [SMAPI](https://smapi.io) v4.1.10+
-* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) v2.4.4+
-* [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231) v1.24.0+
-* [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357) v1.11+
-* [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) v1.9.6+
-* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089) v1.6+
+* [SMAPI](https://smapi.io) v4.1.10 or higher
+* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) v2.4.4 or higher
+* [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231) v1.24.0 or higher
+* [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357) v1.11 or higher, do not use 1.15.0.
+* [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) v1.9.6 or higher
+* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089) v1.6 or higher
 
 ## Dependencies for beta.03 and Later
 
-* [Spacecore](https://www.nexusmods.com/stardewvalley/mods/1348) v1.27.0+
-* [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619) v1.40+ (Optional)
+* [Spacecore](https://www.nexusmods.com/stardewvalley/mods/1348) v1.27.0 or higher
+* [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619) v1.40 or higher (Optional)
 * MultiYield crops not required.
 
 ## Dependencies for Versions prior to beta.03
