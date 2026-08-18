@@ -13194,6 +13194,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -14748,6 +14749,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "mythic_honey_item",
                         "mythic_honey",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
@@ -16481,6 +16483,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -17000,6 +17003,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -20001,6 +20005,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -22398,6 +22403,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -22868,6 +22874,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "mythic_honey_item",
                         "mythic_honey",
                         "raffadax_flow_honey"
                     ]
@@ -24528,6 +24535,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -26435,6 +26443,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -27185,6 +27194,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "adult_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey",
                         "raffadax_cannabis_item"
                     ]
@@ -28585,6 +28595,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -29982,6 +29993,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -31640,6 +31652,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -33393,6 +33406,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -33867,6 +33881,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -34413,6 +34428,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -36763,6 +36779,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -37140,6 +37157,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "poison_honey",
+                        "poison_mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -38091,6 +38109,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -39730,6 +39749,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -40167,6 +40187,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -40804,6 +40825,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -42609,6 +42631,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -43623,6 +43646,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_enchanted_item",
                         "raffadax_flow_honey"
                     ]
@@ -46092,6 +46116,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -47214,6 +47239,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -48163,6 +48189,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -48794,6 +48821,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -49615,6 +49643,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -50632,6 +50661,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -51257,6 +51287,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -51592,6 +51623,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -51737,6 +51769,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -52298,6 +52331,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -53044,6 +53078,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -54605,6 +54640,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -59545,6 +59581,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -60302,6 +60339,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -60706,6 +60744,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -61709,6 +61748,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -62534,6 +62574,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -63426,7 +63467,9 @@
                     "ContextTags": [
                         "raffadax_object",
                         "raffadax_artisan_object",
+                        "honey_item",
                         "poison_honey",
+                        "poison_mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -64249,6 +64292,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -66054,6 +66098,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -66531,7 +66576,9 @@
                     "ContextTags": [
                         "raffadax_object",
                         "raffadax_artisan_object",
+                        "honey_item",
                         "poison_honey",
+                        "poison_mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -67806,6 +67853,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -68455,6 +68503,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -71372,6 +71421,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -72582,6 +72632,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -73451,6 +73502,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -74510,6 +74562,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -75254,6 +75307,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -76348,6 +76402,7 @@
                         "honey_item",
                         "mythic_honey",
                         "raffadax_mythic_item",
+                        "poison_mythic_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -79296,6 +79351,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -79948,6 +80004,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -82964,6 +83021,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -83498,6 +83556,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -85369,6 +85428,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -86370,6 +86430,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -87669,6 +87730,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -89597,6 +89659,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -93392,6 +93455,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -94989,6 +95053,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -96009,6 +96074,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -96428,6 +96494,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -100402,6 +100469,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -103241,6 +103309,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -104040,6 +104109,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -104624,6 +104694,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -105355,6 +105426,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -106454,6 +106526,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -110055,6 +110128,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -119708,6 +119782,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -120432,6 +120507,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -121394,6 +121470,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -122336,6 +122413,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -123565,6 +123643,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -124403,6 +124482,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]
@@ -124865,6 +124945,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -127003,6 +127084,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -127690,6 +127772,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -128845,6 +128928,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -129488,6 +129572,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -130331,6 +130416,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -136084,7 +136170,9 @@
                     "ContextTags": [
                         "raffadax_object",
                         "raffadax_artisan_object",
+                        "honey_item",
                         "poison_honey",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -136554,6 +136642,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -137405,7 +137494,9 @@
                     "ContextTags": [
                         "raffadax_object",
                         "raffadax_artisan_object",
+                        "honey_item",
                         "poison_honey",
+                        "poison_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -138889,6 +138980,7 @@
                         "raffadax_object",
                         "raffadax_artisan_object",
                         "honey_item",
+                        "normal_honey_item",
                         "raffadax_flow_honey"
                     ]
                 },
@@ -139472,6 +139564,7 @@
                         "raffadax_artisan_object",
                         "honey_item",
                         "mythic_honey",
+                        "mythic_honey_item",
                         "raffadax_mythic_item",
                         "raffadax_flow_honey"
                     ]

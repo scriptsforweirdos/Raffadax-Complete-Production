@@ -80537,7 +80537,7 @@
     },
     {
         "ProducerQualifiedItemId": "(BC)Raffadax.RCP_Oxidizer",
-        "InputIdentifier": "honey_item",
+        "InputIdentifier": "normal_honey_item",
         "OutputIdentifier": "Raffadax.RCP_CrystalizedHoney",
         "OutputTranslationKey": "CrystalizedHoney.DisplayName",
         "MinutesUntilReady": 2000,
